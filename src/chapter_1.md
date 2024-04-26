@@ -1,69 +1,16 @@
--   [kinematics](#kinematics)
--   [Definition](#definition)
--   [Dynamic](#dynamic)
-    -   [Newton law of Motion:](#newton-law-of-motion)
-    -   [Force](#force)
-        -   [Action at a Distance force](#action-at-a-distance-force)
-            -   [Gravitational Force](#gravitational-force)
-        -   [Contact Force](#contact-force)
-            -   [Applies Force](#applies-force)
-            -   [Spring Force](#spring-force)
-            -   [Tension](#tension)
-            -   [Normal Force](#normal-force)
-            -   [Friction](#friction)
-            -   [Type of Friction](#type-of-friction)
-                -   [Static](#static)
-                -   [Kinematic](#kinematic)
-    -   [Free Body Diagram](#free-body-diagram)
-    -   [Momentum](#momentum)
-        -   [Impulse](#impulse)
--   [Work and Energy](#work-and-energy)
-    -   [Work](#work)
-    -   [Power](#power)
-    -   [Kinetic Energy](#kinetic-energy)
-    -   [Potential Energy](#potential-energy)
--   [Equation](#equation)
-    -   [Kinematics](#kinematics-1)
-    -   [Tension 1 rope, 1 mass:](#tension-1-rope-1-mass)
-    -   [Tension 2 rope, 2 mass (only worry about the first rope which is being pull by 3 things):](#tension-2-rope-2-mass-only-worry-about-the-first-rope-which-is-being-pull-by-3-things)
-    -   [Weight in a Elevator:](#weight-in-a-elevator)
-    -   [Atwood Machine:](#atwood-machine)
-    -   [Hanging blocks from a table:](#hanging-blocks-from-a-table)
-    -   [On a surface:](#on-a-surface)
-    -   [Momentum:](#momentum-1)
-    -   [Work and Energy:](#work-and-energy-1)
-        -   [Kinetic Energy:](#kinetic-energy-1)
-        -   [Gravitational Energy:](#gravitational-energy)
-
 # Kinematics
 
 ## Definition
 
-> **Frame of Reference**: The point of view of which motion is observe and describe.
-
-> **Relative Motion**: Motion of an object relative to a frame of reference
-
 To measure and describe a object motion we must compare it to a frame of reference or relative to something.
-
-> **Fixed FOF**: FOF from a stationary object
-
-> **Moving FOF**: FOF from a moving object
 
 # Dynamic
 
 Dynamic is the studies of force that change motion of an object
 
-> **Force**: A push or a pull on an object.
-
 ## Newton law of Motion:
 
 1. An object with no net force remain at rest or continue in motion with constant velocity
-
-> **Net Force**: Total force act on a object
-
-> **Constant Velocity**: Velocity that is not changing (no acceleration)
-
-> **Inertia**: An object tendency to change in motion (more inertia mean harder to move)
 
 If a frame of reference is accelerating, it is **NOT** an inertial frame of reference.
 
@@ -97,8 +44,6 @@ The gravitational force exerted on an object by the Earth (or another planet) is
 or on earth it simply
 \\[ F_w = 9.8m \\]
 
-> **Weight** is the object mass in relation to the gravitational force that act on the object.
-
 While mass is the amount of matter it it make out of.
 
 Weight is a vector quantity that have both magnitude and direction, most of the time mass will be downward.
@@ -106,8 +51,6 @@ Weight is a vector quantity that have both magnitude and direction, most of the 
 ### Contact Force
 
 #### Applies Force
-
-> **Applies Force** is a push or pull force that is applies onto a object either by a person or another object.
 
 Applies Force have the symbol \\(F_a\\)
 
@@ -125,11 +68,7 @@ x is the amount of deformation/displacement observed (m).
 
 #### Tension
 
-> **Tension** is the force that an object, such as a rope, rubber band or spring, transmits when it is stretches.
-
 Tension is always directly along the rope or alike object, the force is also alway a pull force.
-
-> **Pulleys** can be use to change a tension force direction but not magnitude.
 
 #### Normal Force
 
@@ -148,21 +87,15 @@ m is the object mass (kg)
 
 ### Friction
 
-> **Friction** is the force that act on object when 2 surface is in contact.
-
 The symbol for friction is \\(F_f\\). Friction is dependent on the surface in contact and the magnitude of the force that push the surface together or the [normal force](#normal-force). The size of the surface does not change friction.
 
 #### Type of Friction
 
 ##### Static
 
-> **Static friction** is the force that act on a 2 surface when they are at rest
-
 For an object to start moving you must overcome the static friction
 
 ##### Kinematic
-
-> **Kinematic friction** is the force that act on a 2 surface when they are at moving
 
 To keep an object moving you must overcome or be equal to the kinematic friction. The kinematic friction is alway less than the static friction.
 
@@ -196,11 +129,7 @@ Kinematic coefficient of a few surface:
 
 ## Free Body Diagram
 
-> A **free body diagram** is a diagram use to show force that is acting on a object.
-
 ## Momentum
-
-> **Momentum** is defined as the quantity of motion of a moving body
 
 All object that is in motion have momentum. The formula for momentum is:
 
@@ -213,8 +142,6 @@ v is the object's velocity (m/s)
 Momentum is alway in the same direction as the velocity
 
 ### Impulse
-
-> **Impulse** is the object change in momentum
 
 The equation for impulse or change in momentum is:
 
@@ -234,12 +161,12 @@ Another formula for impulse is:
 I is the impulse (Ns)  
 F is the applies force (N)  
 t is the time (s)
+\\)
 
 # Work and Energy
 
 ## Work
 
-> **Work** is the transfer of energy.
 > Work is done when a force cause an object to move.
 
 Formula for work is:
@@ -259,8 +186,6 @@ In a f-d graph the area under the curve is the work done
 
 ## Power
 
-> **Power** is the rate of which work is being done
-
 Formula for power is:
 
 \\[ P = \frac{\Delta W}{\Delta t} \\]
@@ -273,8 +198,6 @@ P is the rate (W)
 
 ## Kinetic Energy
 
-> **Kinetic energy** is the energy that an object has because it is in motion.
-
 The formula for kinetic energy is:
 
 \\[ K = \frac{mv^2}{2} \\]
@@ -286,8 +209,6 @@ v is the object velocity (m/s)
 Kinetic energy is also equal to the amount of work done (\\(W = K\\) or \\(Fd cos(\theta) = \frac{mv^2}{2}\\))
 
 ## Potential Energy
-
-> **Potential energy** is defined as the energy stored by an object because of its position or state.
 
 The formula for gravitational potential energy is:
 
